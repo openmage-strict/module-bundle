@@ -1,0 +1,9 @@
+src/app/code/core/Mage/Bundle/                                     app/code/core/Mage/Bundle/
+src/app/design/adminhtml/default/default/layout/bundle.xml         app/design/adminhtml/default/default/layout/bundle.xml
+src/app/design/adminhtml/default/default/template/bundle/          app/design/adminhtml/default/default/template/bundle/
+src/app/design/frontend/base/default/layout/bundle.xml             app/design/frontend/base/default/layout/bundle.xml
+src/app/design/frontend/base/default/template/bundle/              app/design/frontend/base/default/template/bundle/
+src/app/design/frontend/rwd/default/layout/bundle.xml              app/design/frontend/rwd/default/layout/bundle.xml
+src/app/design/frontend/rwd/default/template/bundle/               app/design/frontend/rwd/default/template/bundle/
+src/app/etc/modules/Mage_Bundle.xml                                app/etc/modules/Mage_Bundle.xml
+src/app/locale/en_US/Mage_Bundle.csv                               app/locale/en_US/Mage_Bundle.csv
